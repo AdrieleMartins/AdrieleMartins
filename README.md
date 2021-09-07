@@ -3,7 +3,6 @@
 - 🔭  Neste momento trabalho com backend
 - 🌱  Estudando Reactjs
 - 💬  Contate-me no e-mail: adrielemartins01@gmail.com
-- 😄  Pronouns: ela/dela
 
  <div>
   <a href="https://github.com/AdrieleMartins">
